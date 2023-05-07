@@ -6,7 +6,6 @@ https://elmas3.github.io/mao-seminar/
 # 成员
 真央教授
 Elmas
-Wakaba
 cxycxy
 
 # 目录
